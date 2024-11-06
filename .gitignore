@@ -24,7 +24,7 @@
 *.lai
 *.la
 *.a
-*.lib
+
 
 # Executables
 *.exe
@@ -39,10 +39,10 @@ Debug/
 x64/Debug
 
 # Include Dependencies folder
-!/Dependencies/SDL_image/lib/x64/
-!/Dependencies/SDL2_core/lib/x64/
-!/Dependencies/SDL2_mixer/lib/x64/
-!/Dependencies//SDL2_ttf/lib/x64/
+!/SdlProject2/Dependencies/SDL_image/lib/x64/
+!/SdlProject2/Dependencies/SDL2_core/lib/x64/
+!/SdlProject2/Dependencies/SDL2_mixer/lib/x64/
+!/SdlProject2/Dependencies/SDL2_ttf/lib/x64/
 
 
 # Ignore user-specific Visual Studio files
