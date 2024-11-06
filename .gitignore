@@ -31,3 +31,14 @@
 *.out
 *.app
 .vs/ 
+
+# Ignore Visual Studio files
+.vs/
+x64/
+Debug/
+SDLPaint/x64/Debug
+x64/Debug
+
+# Ignore user-specific Visual Studio files
+*.vcxproj.user
+
