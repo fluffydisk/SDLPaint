@@ -36,8 +36,14 @@
 .vs/
 x64/
 Debug/
-SDLPaint/x64/Debug
 x64/Debug
+
+# Include Dependencies folder
+!/Dependencies/SDL_image/lib/x64/
+!/Dependencies/SDL2_core/lib/x64/
+!/Dependencies/SDL2_mixer/lib/x64/
+!/Dependencies//SDL2_ttf/lib/x64/
+
 
 # Ignore user-specific Visual Studio files
 *.vcxproj.user
